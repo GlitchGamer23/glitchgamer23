@@ -15,8 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=glitchgamer23&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=glitchgamer23&icon=9&color=3)](https://visitcount.itsvg.in)
